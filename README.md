@@ -65,7 +65,7 @@ Pre-final year Mechanical Engineering student with a Minor in AI/ML at BITS Pila
 ## 📬 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sanvi--portfolio.vercel.app-8e44ad?style=flat-square)](https://sanvi-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanvi--udhan-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanvi-udhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanvi--udhan-0077b5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanvi-udhan-21a84a2b4)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Sanvi2112-ffa116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Sanvi2112)
 [![Email](https://img.shields.io/badge/Email-udhansanvi@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:udhansanvi@gmail.com)
 
