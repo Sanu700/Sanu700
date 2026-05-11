@@ -2,7 +2,7 @@
 
 **Full-Stack Developer & ML Builder · BITS Pilani '27**
 
-Pre-final year Mechanical Engineering student with a Minor in AI/ML at BITS Pilani, Hyderabad. I build full-stack products and data-driven systems — not as assignments, but as real shipped software.
+Pre-final year Mechanical Engineering student with a Minor in CNI at BITS Pilani, Hyderabad. I build full-stack products and data-driven systems — not as assignments, but as real shipped software.
 
 ---
 
