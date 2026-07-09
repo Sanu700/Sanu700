@@ -11,12 +11,11 @@ Pre-final year Mechanical Engineering student with a Minor in CNI at BITS Pilani
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
 | [RepoLens](https://github.com/Sanu700/RepoLens) | Analyze any GitHub repo or profile in real time | React, Node.js, GitHub API | [↗](https://repo-lens-ivory.vercel.app) |
+| [VendorBridge](https://github.com/Sanu700/VendorBridge) | Vendor-supplier marketplace — 48hr hackathon build | React, Firebase | [↗](https://lnkd.in/gHnKcJwU) |
 | [Slash Experiences](https://github.com/Sanu700/Slash) | Experience gifting platform — 1,000+ users, 99.9% uptime | React, TypeScript, Supabase | [↗](https://slashexperiences.in) |
 | [AI Credit Risk System](https://github.com/Sanu700/AI-Credit-Risk-Intelligence) | ML pipeline for credit risk — AUC 0.80 + Gemini LLM summaries | Python, scikit-learn, Gemini | — |
 | [Stress Testing Engine](https://github.com/Sanu700/Stress-Testing-Loss-Forecasting-Engine) | Monte Carlo credit loss simulation — 1,000 scenarios, 95/99% VaR | Python, NumPy, SciPy | — |
 | [Cinepedia](https://github.com/Sanu700/Cinepedia) | Full-stack movie review platform with Google OAuth | React, TypeScript, Supabase | [↗](https://cineepedia.netlify.app) |
-| [VendorBridge](https://github.com/Sanu700/VendorBridge) | Vendor-supplier marketplace — 48hr hackathon build | React, Firebase | [↗](https://lnkd.in/gHnKcJwU) |
-
 ---
 
 ## 🛠️ Tech Stack
