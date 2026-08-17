@@ -70,4 +70,4 @@ Final year Mechanical Engineering student with a Minor in CNI at BITS Pilani, Hy
 
 ---
 
-> *Currently open to SWE / Full-Stack / ML internships for Summer 2026*
+> *Currently Interning at JODO!*
