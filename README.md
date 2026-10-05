@@ -16,6 +16,8 @@ Final year Mechanical Engineering student with a Minor in CNI at BITS Pilani, Hy
 | [AI Credit Risk System](https://github.com/Sanu700/AI-Credit-Risk-Intelligence) | ML pipeline for credit risk — AUC 0.80 + Gemini LLM summaries | Python, scikit-learn, Gemini | [↗](https://ai-credit-risk-intelligence.vercel.app)|
 | [DSA Journey](https://github.com/Sanu700/DSA-Journey) | Structured DSA practice covering core patterns and problem-solving techniques | C++, Data Structures, Algorithms | — |
 | [Cinepedia](https://github.com/Sanu700/Cinepedia) | Full-stack movie review platform with Google OAuth | React, TypeScript, Supabase | [↗](https://cineepedia.netlify.app) |
+| [ToxicBuddy](https://github.com/Sanu700/ToxicBuddy) | Full-stack AI moderation platform for toxicity detection, conversation analysis, escalation detection, and constructive text rewriting | Python, FastAPI, React, scikit-learn, PostgreSQL | [↗](https://toxic-buddy.vercel.app) |
+
 ---
 
 ## 🛠️ Tech Stack
